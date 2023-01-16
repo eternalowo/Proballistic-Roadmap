@@ -2,5 +2,5 @@
 PRM algorithm with GUI via PyQt5, code will be refactored and improved (WIP)
 
 devs:
-<link="https://github.com/eternalowo">eternalowo</link>
+[eternalowo](https://github.com/eternalowo)
 <link="https://github.com/hight-tech-fox">hight-tech-fox</link>
